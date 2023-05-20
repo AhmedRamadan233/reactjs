@@ -1,0 +1,24 @@
+header {
+    /* background-image: url('../../../public/assets/images/header.jpeg'); */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+  
